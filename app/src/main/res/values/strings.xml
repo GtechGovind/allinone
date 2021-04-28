@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">All In One</string>
+    <string name="made_with_love_in_india">MADE WITH LOVE ❣️ IN INDIA</string>
+    <string name="todo">TODO</string>
+    <string name="my_favourite_games">my favourite games</string>
+    <string name="gametext">these games are trending in season with best of there features and also enjoyable</string>
+    <string name="most_viewed">most viewed</string>
+    <string name="view_all">view all</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">view all</string>
+    <string name="adventure">ADVENTURE</string>
+    <string name="jump">JUMP</string>
+    <string name="racing">RACING</string>
+    <string name="action">ACTION</string>
+    <string name="search">Search</string>
+    <string name="games_category">GAMES CATEGORY</string>
+    <string name="all_in_one">ALL IN ONE</string>
+</resources>
